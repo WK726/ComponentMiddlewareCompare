@@ -1,0 +1,16 @@
+PODS:
+  - MGJRouter (0.10.0)
+
+DEPENDENCIES:
+  - MGJRouter
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MGJRouter
+
+SPEC CHECKSUMS:
+  MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
+
+PODFILE CHECKSUM: 15f7f4686e0257a360c76feb8d9bf2acb89036a6
+
+COCOAPODS: 1.5.3
